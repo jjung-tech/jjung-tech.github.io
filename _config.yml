@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "jjung Tech"
+title: "jjung Tech"
+description: "정 씨 두 명의 ML 블로그"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /mediumish-theme-jekyll
