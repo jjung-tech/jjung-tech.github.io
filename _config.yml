@@ -26,7 +26,7 @@ authors:
     web: https://github.com/jsc2576
     # twitter: https://twitter.com/wowthemesnet
     description: "python / deep learning 분야 세상 흔한 3년 차 개발자입니다. 개발은 나름 하는데 통계는 영..... 딥러닝은 그래도 하는데 머신 러닝은 또 음...."
-  sukiworld:
+  wooyou:
     name: wooyou
     display_name: wooyou
     avatar: 'assets/images/sk_profile.jpg'
@@ -34,7 +34,7 @@ authors:
     #email: sukiworld@gmail.com
     # web: https://www.wowthemes.net
     # twitter: https://twitter.com/wowthemesnet
-    description: "통계/분석/ML을 위주로 요리조리 4년째 떼굴떼굴. 긱한 데싸 밴드 모임을 꿈꾸며 함께 할 동지들을 모으고 있습니다."
+    description: "통계/분석/ML을 위주로 요리조리 4년째 떼굴떼굴. geek한 밴드 모임을 꿈꾸며 함께 할 데싸 동지들을 모으고 있습니다."
 
 # Plugins
 plugins:
